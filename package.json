@@ -33,7 +33,7 @@
     "@aws-sdk/credential-providers": "^3.292.0",
     "@aws-sdk/s3-request-presigner": "^3.294.0",
     "@aws-sdk/types": "^3.338.0",
-    "@axe-core/playwright": "^4.6.1",
+    "@axe-core/playwright": "^4.9.1",
     "@common/logger": "^2.0.9",
     "@common/prometheus": "^2.3.8",
     "@emotion/react": "^11.9.3",
